@@ -36,7 +36,7 @@ class WebRTCCamera extends VideoRTC {
          *     muted: boolean,
          *     intersection: number,
          *     ui: boolean,
-         *     style: string,
+         *     style2: string,
          *     background: boolean,
          *
          *     server: string,
